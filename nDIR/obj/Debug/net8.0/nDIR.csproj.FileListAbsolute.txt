@@ -1,0 +1,14 @@
+C:\HDD\DotNet_Project\nDOS\nDIR\bin\Debug\net8.0\nDIR.exe
+C:\HDD\DotNet_Project\nDOS\nDIR\bin\Debug\net8.0\nDIR.deps.json
+C:\HDD\DotNet_Project\nDOS\nDIR\bin\Debug\net8.0\nDIR.runtimeconfig.json
+C:\HDD\DotNet_Project\nDOS\nDIR\bin\Debug\net8.0\nDIR.dll
+C:\HDD\DotNet_Project\nDOS\nDIR\bin\Debug\net8.0\nDIR.pdb
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.AssemblyInfoInputs.cache
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.AssemblyInfo.cs
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.csproj.CoreCompileInputs.cache
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.dll
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\refint\nDIR.dll
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.pdb
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.genruntimeconfig.cache
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\ref\nDIR.dll

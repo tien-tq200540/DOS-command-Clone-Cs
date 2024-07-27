@@ -1,0 +1,14 @@
+C:\HDD\DotNet_Project\nDOS\nCOPY\bin\Debug\net8.0\nCOPY.exe
+C:\HDD\DotNet_Project\nDOS\nCOPY\bin\Debug\net8.0\nCOPY.deps.json
+C:\HDD\DotNet_Project\nDOS\nCOPY\bin\Debug\net8.0\nCOPY.runtimeconfig.json
+C:\HDD\DotNet_Project\nDOS\nCOPY\bin\Debug\net8.0\nCOPY.dll
+C:\HDD\DotNet_Project\nDOS\nCOPY\bin\Debug\net8.0\nCOPY.pdb
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\nCOPY.GeneratedMSBuildEditorConfig.editorconfig
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\nCOPY.AssemblyInfoInputs.cache
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\nCOPY.AssemblyInfo.cs
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\nCOPY.csproj.CoreCompileInputs.cache
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\nCOPY.dll
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\refint\nCOPY.dll
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\nCOPY.pdb
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\nCOPY.genruntimeconfig.cache
+C:\HDD\DotNet_Project\nDOS\nCOPY\obj\Debug\net8.0\ref\nCOPY.dll

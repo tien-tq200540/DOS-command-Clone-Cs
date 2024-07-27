@@ -1,0 +1,14 @@
+C:\HDD\DotNet_Project\nDOS\nTREE\bin\Debug\net8.0\nTREE.exe
+C:\HDD\DotNet_Project\nDOS\nTREE\bin\Debug\net8.0\nTREE.deps.json
+C:\HDD\DotNet_Project\nDOS\nTREE\bin\Debug\net8.0\nTREE.runtimeconfig.json
+C:\HDD\DotNet_Project\nDOS\nTREE\bin\Debug\net8.0\nTREE.dll
+C:\HDD\DotNet_Project\nDOS\nTREE\bin\Debug\net8.0\nTREE.pdb
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\nTREE.GeneratedMSBuildEditorConfig.editorconfig
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\nTREE.AssemblyInfoInputs.cache
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\nTREE.AssemblyInfo.cs
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\nTREE.csproj.CoreCompileInputs.cache
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\nTREE.dll
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\refint\nTREE.dll
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\nTREE.pdb
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\nTREE.genruntimeconfig.cache
+C:\HDD\DotNet_Project\nDOS\nTREE\obj\Debug\net8.0\ref\nTREE.dll

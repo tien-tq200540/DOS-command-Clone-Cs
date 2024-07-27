@@ -12,3 +12,4 @@ C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\refint\nDIR.dll
 C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.pdb
 C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.genruntimeconfig.cache
 C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\ref\nDIR.dll
+C:\HDD\DotNet_Project\nDOS\nDIR\obj\Debug\net8.0\nDIR.sourcelink.json

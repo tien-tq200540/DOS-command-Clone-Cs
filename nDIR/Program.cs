@@ -9,27 +9,25 @@
             var directory = new DirectoryInfo(path);
             if (directory.Exists)
             {
-                var dir = directory.GetFileSystemInfos();
-                foreach (var dirInfo in dir)
+                var fileSystems = directory.GetFileSystemInfos();
+                foreach (var fileSys in fileSystems)
                 {
-                    var lastWriteDate = dirInfo.LastWriteTime.ToString("MM/dd/yyyy");
-                    var lastWriteTime = dirInfo.LastWriteTime.ToString("hh:mm");
-                    var dirType = "";
-                    var dirLength = "";
-                    var dirName = dirInfo.Name;
+                    var lastWriteDate = fileSys.LastWriteTime.ToString("MM/dd/yyyy");
+                    var lastWriteTime = fileSys.LastWriteTime.ToString("hh:mm");
+                    var fileSysType = "";
+                    var fileSysLength = "";
+                    var fileSysName = fileSys.Name;
 
-                    if (dirInfo is DirectoryInfo)
+                    if (fileSys is DirectoryInfo)
                     {
-                        dirType = "<DIR>";
+                        fileSysType = "<DIR>";
+                    } else if (fileSys is FileInfo)
+                    {
+                        var fileInfo = (FileInfo)fileSys;
+                        fileSysLength = $"{fileInfo.Length.ToString("#,###")}";
                     }
 
-                    if (dirInfo is FileInfo)
-                    {
-                        var dirFileInfo = (FileInfo)dirInfo;
-                        dirLength = $"{dirFileInfo.Length.ToString("#,###")}";
-                    }
-
-                    Console.WriteLine($"{lastWriteDate}  {lastWriteTime}  {dirType} \t {dirLength} \t {dirName}");
+                    Console.WriteLine($"{lastWriteDate}  {lastWriteTime}  {fileSysType} \t {fileSysLength} \t {fileSysName}");
                 }
             } else
             {

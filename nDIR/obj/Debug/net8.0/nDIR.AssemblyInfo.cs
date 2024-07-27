@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nDIR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46092dae4b5572068768d7620c9a28cd27299694")]
 [assembly: System.Reflection.AssemblyProductAttribute("nDIR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nDIR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

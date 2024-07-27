@@ -8,7 +8,7 @@
 
 ## DOS command list
 1. DIR - Display a list of files and directories.
-2. COPY - Copy files or directories.
+2. COPY - Copy files.
 3. DEL - Delete files.
 4. MKDIR - Create a new directory.
 5. RMDIR - Remove a directory.

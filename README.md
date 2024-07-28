@@ -7,18 +7,18 @@
   - There are commands that cannot be cloned or do not make much sense when cloned.
 
 ## DOS command list
-1. DIR - Display a list of files and directories.
-2. COPY - Copy files.
+1. DIR - Display a list of files and directories. <done>
+2. COPY - Copy files. <done>
 3. DEL - Delete files.
 4. MKDIR - Create a new directory.
 5. RMDIR - Remove a directory.
 6. MOVE - Move or rename files and directories.
 7. RENAME - Rename files.
-8. CLS - Clear the console screen.
-9. TYPE - Display the contents of a text file.
+8. CLS - Clear the console screen. <done>
+9. TYPE - Display the contents of a text file. <done>
 10. ATTRIB - Change the attributes of files or directories.
 11. XCOPY - Copy files and directory trees.
-12. TREE - Display the directory structure in a tree format.
+12. TREE - Display the directory structure in a tree format. <done>
 13. FC - Compare two files or a file and a directory.
 14. FIND - Search for a text string in a file.
 15. FINDSTR - Search for a text string in a file with more advanced conditions.

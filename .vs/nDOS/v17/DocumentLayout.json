@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\HDD\\DotNet_Project\\nDOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E04155E-6EEC-4652-8F3D-506D64D87202}|nDIR\\nDIR.csproj|c:\\hdd\\dotnet_project\\ndos\\ndir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E04155E-6EEC-4652-8F3D-506D64D87202}|nDIR\\nDIR.csproj|solutionrelative:ndir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E04155E-6EEC-4652-8F3D-506D64D87202}|nDIR\\nDIR.csproj|c:\\hdd\\dotnet_project\\ndos\\ndir\\ndir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9E04155E-6EEC-4652-8F3D-506D64D87202}|nDIR\\nDIR.csproj|solutionrelative:ndir\\ndir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34961135-D3B1-4669-847F-A180829DB66D}|nTREE\\nTREE.csproj|c:\\hdd\\dotnet_project\\ndos\\ntree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34961135-D3B1-4669-847F-A180829DB66D}|nTREE\\nTREE.csproj|solutionrelative:ntree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78660AAC-1402-41C5-96B6-BE4B3BDA60D9}|nTYPE\\nTYPE.csproj|c:\\hdd\\dotnet_project\\ndos\\ntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78660AAC-1402-41C5-96B6-BE4B3BDA60D9}|nTYPE\\nTYPE.csproj|solutionrelative:ntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\HDD\\DotNet_Project\\nDOS\\nDIR\\Program.cs",
-              "RelativeDocumentMoniker": "nDIR\\Program.cs",
-              "ToolTip": "C:\\HDD\\DotNet_Project\\nDOS\\nDIR\\Program.cs",
-              "RelativeToolTip": "nDIR\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "DocumentMoniker": "C:\\HDD\\DotNet_Project\\nDOS\\nTYPE\\Program.cs",
+              "RelativeDocumentMoniker": "nTYPE\\Program.cs",
+              "ToolTip": "C:\\HDD\\DotNet_Project\\nDOS\\nTYPE\\Program.cs",
+              "RelativeToolTip": "nTYPE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T11:24:10.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "nDIR",
-              "DocumentMoniker": "C:\\HDD\\DotNet_Project\\nDOS\\nDIR\\nDIR.csproj",
-              "RelativeDocumentMoniker": "nDIR\\nDIR.csproj",
-              "ToolTip": "C:\\HDD\\DotNet_Project\\nDOS\\nDIR\\nDIR.csproj",
-              "RelativeToolTip": "nDIR\\nDIR.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-27T11:23:57.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\HDD\\DotNet_Project\\nDOS\\nTREE\\Program.cs",
-              "RelativeDocumentMoniker": "nTREE\\Program.cs",
-              "ToolTip": "C:\\HDD\\DotNet_Project\\nDOS\\nTREE\\Program.cs",
-              "RelativeToolTip": "nTREE\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T09:44:22.568Z",
+              "WhenOpened": "2024-07-28T16:48:32.443Z",
               "EditorCaption": ""
             }
           ]

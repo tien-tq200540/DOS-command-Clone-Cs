@@ -6,19 +6,19 @@
   - This is a project for .NET newbie.
   - There are commands that cannot be cloned or do not make much sense when cloned.
 
-## DOS command list
-1. DIR - Display a list of files and directories. <done>
-2. COPY - Copy files. <done>
+## DOS command list (Progress: 5/60)
+1. <del> DIR - Display a list of files and directories. </del>
+2. <del> COPY - Copy files. </del>
 3. DEL - Delete files.
 4. MKDIR - Create a new directory.
 5. RMDIR - Remove a directory.
 6. MOVE - Move or rename files and directories.
 7. RENAME - Rename files.
-8. CLS - Clear the console screen. <done>
-9. TYPE - Display the contents of a text file. <done>
+8. <del> CLS - Clear the console screen. </del>
+9. <del> TYPE - Display the contents of a text file. </del>
 10. ATTRIB - Change the attributes of files or directories.
 11. XCOPY - Copy files and directory trees.
-12. TREE - Display the directory structure in a tree format. <done>
+12. <del> TREE - Display the directory structure in a tree format. </del>
 13. FC - Compare two files or a file and a directory.
 14. FIND - Search for a text string in a file.
 15. FINDSTR - Search for a text string in a file with more advanced conditions.

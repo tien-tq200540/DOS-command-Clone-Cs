@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\HDD\\DotNet_Project\\nDOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78660AAC-1402-41C5-96B6-BE4B3BDA60D9}|nTYPE\\nTYPE.csproj|c:\\hdd\\dotnet_project\\ndos\\ntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78660AAC-1402-41C5-96B6-BE4B3BDA60D9}|nTYPE\\nTYPE.csproj|solutionrelative:ntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F687C6CE-A445-4599-B022-A56121D74137}|nRMDIR\\nRMDIR.csproj|c:\\hdd\\dotnet_project\\ndos\\nrmdir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687C6CE-A445-4599-B022-A56121D74137}|nRMDIR\\nRMDIR.csproj|solutionrelative:nrmdir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\HDD\\DotNet_Project\\nDOS\\nTYPE\\Program.cs",
-              "RelativeDocumentMoniker": "nTYPE\\Program.cs",
-              "ToolTip": "C:\\HDD\\DotNet_Project\\nDOS\\nTYPE\\Program.cs",
-              "RelativeToolTip": "nTYPE\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB7AAAA",
+              "DocumentMoniker": "C:\\HDD\\DotNet_Project\\nDOS\\nRMDIR\\Program.cs",
+              "RelativeDocumentMoniker": "nRMDIR\\Program.cs",
+              "ToolTip": "C:\\HDD\\DotNet_Project\\nDOS\\nRMDIR\\Program.cs*",
+              "RelativeToolTip": "nRMDIR\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T16:48:32.443Z",
+              "WhenOpened": "2024-07-29T10:21:54.379Z",
               "EditorCaption": ""
             }
           ]

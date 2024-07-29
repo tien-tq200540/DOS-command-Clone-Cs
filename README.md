@@ -6,12 +6,20 @@
   - This is a project for .NET newbie.
   - There are commands that cannot be cloned or do not make much sense when cloned.
 
-## DOS command list (Progress: 5/60)
+## Notes:
+- No try-catch-finally for better efficiency.
+- Input format:
+  - No double-quotes.
+  - File path or directory path.
+- Results may be approximately 80% or more similar compared to the original version.
+- No escape-characters for simplicity.
+
+## DOS command list (Progress: 8/60)
 1. <del> DIR - Display a list of files and directories. </del>
-2. <del> COPY - Copy files. </del>
-3. DEL - Delete files.
-4. MKDIR - Create a new directory.
-5. RMDIR - Remove a directory.
+2. <del> COPY - Copy the contents of a text file to another file. </del>
+3. <del> DEL - Delete a file. </del>
+4. <del> MKDIR - Create a new empty directory. </del>
+5. <del> RMDIR - Remove a directory and, if indicated, any subdirectories and files in the directory. </del>
 6. MOVE - Move or rename files and directories.
 7. RENAME - Rename files.
 8. <del> CLS - Clear the console screen. </del>

@@ -7,21 +7,21 @@
   - There are commands that cannot be cloned or do not make much sense when cloned.
 
 ## Notes:
-- No try-catch-finally for better efficiency.
+- No try-catch-finally statement for better efficiency.
 - Input format:
-  - No double-quotes.
+  - No double-quotes or extra whitespace.
   - File path or directory path.
 - Results may be approximately 80% or more similar compared to the original version.
-- No escape-characters for simplicity.
+- No escape-characters or wildcard characters for simplicity.
 
-## DOS command list (Progress: 8/60)
+## DOS command list (Progress: 11/60)
 1. <del> DIR - Display a list of files and directories. </del>
 2. <del> COPY - Copy the contents of a text file to another file. </del>
 3. <del> DEL - Delete a file. </del>
 4. <del> MKDIR - Create a new empty directory. </del>
 5. <del> RMDIR - Remove a directory and, if indicated, any subdirectories and files in the directory. </del>
 6. MOVE - Move or rename files and directories.
-7. RENAME - Rename files.
+7. <del> RENAME/REN - Rename a file or a directory. </del>
 8. <del> CLS - Clear the console screen. </del>
 9. <del> TYPE - Display the contents of a text file. </del>
 10. ATTRIB - Change the attributes of files or directories.
@@ -43,8 +43,8 @@
 26. IPC - Manage Interprocess Communication (IPC) connections.
 27. NETSTAT - Display current network connections and network protocol information.
 28. IPCONFIG - Display the network configuration of the computer.
-29. HOSTNAME - Display the computer's hostname.
-30. WHOAMI - Display information about the current user.
+29. <del> HOSTNAME - Display the computer's hostname. </del>
+30. <del> WHOAMI - Display information about the current user. </del>
 31. TASKLIST - Display a list of running processes.
 32. TASKKILL - Terminate one or more processes.
 33. SCHTASKS - Manage scheduled tasks.

@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.Write("Enter the path: "); var input = Console.ReadLine();
+            Console.Write("Enter the directory path: "); var input = Console.ReadLine();
             var path = $"{input}";
             var directory = new DirectoryInfo(path);
             if (directory.Exists)

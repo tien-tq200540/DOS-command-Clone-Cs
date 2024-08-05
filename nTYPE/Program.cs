@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the file path you want to read (no double - quotes and file's name must be in English):"); var input = Console.ReadLine();
+            Console.WriteLine("Enter the file path you want to read it's content (no double - quotes and file's name must be in English):"); var input = Console.ReadLine();
             var filePath = $"{input}";
             var fileInfo = new FileInfo(filePath);
 
